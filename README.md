@@ -1,2 +1,2 @@
 # myminecraftskins
-All of my Minecraft skins uploaded here.
+All of my Minecraft skins uploaded here on Github.
